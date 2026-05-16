@@ -1,10 +1,10 @@
 # All Colors Become Gray
 
-![All Colors Become Gray](all_colors_become_gray.png)
+![All Colors Become Gray](all_colors_become_gray_full_rgb_circle_white.png)
 
 Generative digital artwork by Ick-Hoi Kim
 
-This artwork consists of all possible RGB color combinations represented as individual pixels.
+This artwork contains every possible RGB color combination exactly once.
 
 Although every point is unique, the totality appears visually gray to the human eye.
 
