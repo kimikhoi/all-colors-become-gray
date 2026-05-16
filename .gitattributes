@@ -1,1 +1,1 @@
-*.png filter=lfs diff=lfs merge=lfs -text
+all_colors_become_gray_full_rgb_circle_white.png filter=lfs diff=lfs merge=lfs -text
