@@ -1,6 +1,7 @@
 # All Colors Become Gray
 
 ![All Colors Become Gray](all_colors_become_gray_preview.png)
+
 [View Full RGB Archival Version](https://github.com/kimikhoi/all-colors-become-gray/blob/main/all_colors_become_gray_full_rgb_circle_white.png)
 
 A generative artwork containing every possible RGB color exactly once within a circular perceptual field.
